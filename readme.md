@@ -7,7 +7,7 @@ Não se deve confundir o JavaScript com a linguagem de programação Java. Tanto
 Saiba mais em [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
-## Linguagem e sintaxe [>>](./linguagem_sintaxe.md)
+## Linguagem e sintaxe [ :link: ](./linguagem_sintaxe.md)
 
 - Variáveis e tipos de dados
 - Operadores
