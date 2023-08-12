@@ -1,4 +1,4 @@
-# Javascript - Linguagem e Sintaxe
+# ![JS logo](./images/JavaScript-logo48.png) Javascript - Linguagem e Sintaxe
 
 ## Tipos de variáveis em JavaScript
 Os tipos de variáveis em JS são classificados em:
@@ -21,12 +21,20 @@ variavel = "Senac"; // String
 - Tipagem fraca (A conversão dos dados é feito automáticamente quando necessário)
 ```
 idade = 48;
-nome = "Laercio";
-console.log(nome + ", idade: " + idade);
+nome = 'Laercio';
+console.log(nome + ', idade: ' + idade);
+// Laercio, idade: 48
+```
+- Outra maneira é usar a crase `
+```
+idade = 48;
+nome = 'Laercio';
+console.log(`${nome} , idade: ${idade}`);
 // Laercio, idade: 48
 ```
 - Case Sensitive (Diferencia maiuscula e minuscula)
 
+[hcode](https://hcode.com.br/blog/template-strings-em-javascript)
 [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
 
 ### Escopo e declaração das variáveis
