@@ -34,8 +34,8 @@ console.log(`${nome} , idade: ${idade}`);
 ```
 - Case Sensitive (Diferencia maiuscula e minuscula)
 
-[hcode](https://hcode.com.br/blog/template-strings-em-javascript)
-[Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
+Saiba mais em [hcode](https://hcode.com.br/blog/template-strings-em-javascript)
+Saiba mais em [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
 
 ### Escopo e declaração das variáveis
 | Declaração | Escopo | Atualizável | Nova Declaração | Observação |
@@ -44,7 +44,7 @@ console.log(`${nome} , idade: ${idade}`);
 | ```const```| Bloco | Não | Não | Tem que ser declarada |
 | ```var```| Global | Sim | Sim | Evitar usar |
 
-[Alura](https://www.alura.com.br/artigos/entenda-diferenca-entre-var-let-e-const-no-javascript)
+Saiba mais em [Alura](https://www.alura.com.br/artigos/entenda-diferenca-entre-var-let-e-const-no-javascript)
 
 ## Operadores
 
@@ -62,15 +62,15 @@ console.log(`${nome} , idade: ${idade}`);
 - Unários
   - incremento (++), decremento (--)
 
-[cod3r](https://blog.cod3r.com.br/entenda-operadores-javascript-na-pratica/)
+Saiba mais em [cod3r](https://blog.cod3r.com.br/entenda-operadores-javascript-na-pratica/)
 
 ## Estruturas de controle de fluxo
 - Estrutura de decisão
   - A Estrura 
 - Controle de 
 
-[Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals)
-[Dev](https://dev.to/acaverna/lacos-de-repeticao-em-javascript-50hj)
+Saiba mais em [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals)
+Saiba mais em [Dev](https://dev.to/acaverna/lacos-de-repeticao-em-javascript-50hj)
 
 ## Funções
 
@@ -94,14 +94,14 @@ ola()
 const ola = (nome) => `Olá ${nome}`
 ```
 
-[Blog Matheus Castigioni](https://blog.matheuscastiglioni.com.br/definindo-funcoes-em-javascript/
+Saiba mais em [Blog Matheus Castigioni](https://blog.matheuscastiglioni.com.br/definindo-funcoes-em-javascript/
 )
 
 ## Propriedades e Métodos
 
 
-[Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript-pt)
+Saiba mais em [Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript-pt)
 
 ## Classes e Objetos
 
-[freeCodeCamp](https://www.freecodecamp.org/portuguese/news/programacao-orientada-a-objetos-em-javascript-explicada-com-exemplos/)
+Saiba mais em [freeCodeCamp](https://www.freecodecamp.org/portuguese/news/programacao-orientada-a-objetos-em-javascript-explicada-com-exemplos/)
