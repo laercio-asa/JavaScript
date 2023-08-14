@@ -35,7 +35,9 @@ console.log(`${nome} , idade: ${idade}`);
 - Case Sensitive (Diferencia maiuscula e minuscula)
 
 Saiba mais em [hcode](https://hcode.com.br/blog/template-strings-em-javascript)
+
 Saiba mais em [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
+
 
 ### Escopo e declaração das variáveis
 | Declaração | Escopo | Atualizável | Nova Declaração | Observação |
