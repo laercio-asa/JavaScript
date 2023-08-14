@@ -14,19 +14,19 @@ Os tipos de variáveis em JS são classificados em:
 ### Caracteristicas das variáveis em Javascript
 
 - Tipagem dinâmico - o tipo de dados não é declarado e pode ser alterado sempre automaticamente
-```
+```js
 variavel = 1; // Número
 variavel = "Senac"; // String
 ```
 - Tipagem fraca (A conversão dos dados é feito automáticamente quando necessário)
-```
+```js
 idade = 48;
 nome = 'Laercio';
 console.log(nome + ', idade: ' + idade);
 // Laercio, idade: 48
 ```
 - Outra maneira é usar a crase `
-```
+```js
 idade = 48;
 nome = 'Laercio';
 console.log(`${nome} , idade: ${idade}`);
@@ -77,7 +77,7 @@ Saiba mais em [Dev](https://dev.to/acaverna/lacos-de-repeticao-em-javascript-50h
 ## Funções
 
 - Functions declaration (Função de declaração)
-```
+```js
 function ola() {
     console.log('Olá')
 }
@@ -85,14 +85,14 @@ ola()
 
 ```
 - Functions expression (Função de expressão)
-```
+```js
 const ola = function() {
     console.log('Olá')
 }
 ola()
 ```
 - Arrow Functions (Função de flecha)
-```
+```js
 const ola = (nome) => `Olá ${nome}`
 ```
 
