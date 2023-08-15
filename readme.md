@@ -9,6 +9,7 @@ Saiba mais em [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Linguagem e sintaxe [ :link: ](./linguagem_sintaxe.md)
 
+- Caixa de Diálogos
 - Variáveis e tipos de dados
 - Operadores
 - Estruturas de controle de fluxo

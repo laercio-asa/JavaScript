@@ -1,6 +1,15 @@
 # ![JS logo](./images/JavaScript-logo48.png) Javascript - Linguagem e Sintaxe
 
+## Caixa de Diálogos
+
+| Tipo | Função |
+| ---- | ------ |
+| alert | Exibir uma mensagem na tela |
+| confirm | Exibir uma mensagem de confirmação na tela |
+| prompt | Exibir uma mensagem onde o usuário pode interagir |
+
 ## Tipos de variáveis em JavaScript
+
 Os tipos de variáveis em JS são classificados em:
 
 1. Strings — Uma String nada mais é que texto puro.
