@@ -9,6 +9,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right bottom;
+    backdrop-filter: blur(5px);
     height: 100vh;
     display: flex;
 }
