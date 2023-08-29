@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link href="./css/estilo.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+    <div class="container my-auto">
+        <div id="principal" class="rounded p-3 rounded mx-auto shadow">
+            <div class="h4 pb-2 mb-4 text-danger border-bottom border-danger">
+                Conversor de Temperatura
+            </div>
+            <div class="row g-2">
+                <div class="col">
+                    <div class="form-floating">
+                        <input type="number" class="form-control" id="celsius" placeholder="" disabled>
+                        <label for="celsius">Informe a Temperatura</label>
+                    </div>
+                </div>
+                <div class="col-auto mt-4">
+                    =
+                </div>
+                <div class="col">
+                    <div class="form-floating">
+                        <input type="number" class="form-control" id="converter" placeholder="" readonly>
+                        <label for="converter">Temperatura Convertida</label>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row g-2">
+                <div class="col">
+                    <input type="text" class="form-control form-control-sm bg-secondary text-white" readonly
+                        value="Grau Celsius">
+                </div>
+                <div class="col-auto font-monospace">
+                    &nbsp;
+                </div>
+                <div class="col">
+                    <select class="form-select form-select-sm bg-danger text-white" id="temperaturas"  aria-label="Default select example">
+                        <option selected>Selecione uma opção</option>
+                        <option value="1">Grau Fahrenheit</option>
+                        <option value="2">Kelvin</option>
+                    </select>
+                </div>
+            </div>
+            <div class="my-2">
+                <small><span class="badge bg-warning">Formula</span>&nbsp;<span></span></small>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

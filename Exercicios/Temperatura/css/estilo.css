@@ -1,0 +1,10 @@
+#principal {
+    min-width: 31.25rem;
+    max-width: 37.50rem;
+    background-color: white;
+}
+
+body {
+    height: calc( 100vh - 100px);
+    display: flex;
+}
