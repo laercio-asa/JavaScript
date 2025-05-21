@@ -8,7 +8,7 @@
 ### Aula 02
 - Linguagem e sintaxe
 
-### 18/08/2023
+### Aula 03
 - DOM (Document Object Model)
 
 ### 22/08/2023
