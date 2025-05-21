@@ -2,10 +2,10 @@
 
 ## Datas
 
-### 15/08/2023
+### Aula 01
 - Linguagem e sintaxe
 
-### 17/08/2023
+### Aula 02
 - Linguagem e sintaxe
 
 ### 18/08/2023
