@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <script>
+        // Using localStorage
+        localStorage.setItem('username', 'JohnDoe');
+        let storedUsername = localStorage.getItem('username');
+        console.log(storedUsername); // Output: JohnDoe
+
+        // Using sessionStorage
+        sessionStorage.setItem('tempData', 'This is session data');
+        let sessionData = sessionStorage.getItem('tempData');
+        console.log(sessionData); // Output: This is session data
+
+        document.cookie = "username=John Doe";
+
+        console.log(document.cookie);
+
+        for (var i = 0; i < localStorage.length; i++) {
+            console.log(localStorage.getItem(localStorage.key(i)));
+        }
+
+        let x = 10.5;
+        console.log(typeof x); 
+/*
+        alert("x")
+        confirm("x")
+        prompt("x")
+        */
+    </script>
+</body>
+
+</html>
